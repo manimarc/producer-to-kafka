@@ -5,6 +5,7 @@
 # 
 # install microservice packages
 1. install and configure kafka and zookeeper
-2. npm install
+2. copy and paste .env.example, rename the file to .env and configure environment variable accordingly
+3. npm install
 # run microservice
-3. npm run start
+4. npm run start
